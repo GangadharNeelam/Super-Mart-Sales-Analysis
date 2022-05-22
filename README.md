@@ -1,3 +1,5 @@
 # Hero-vired-project--1-Data-anlysis-case-study-
 
-!https://static.javatpoint.com/tutorial/machine-learning/images/classification-algorithm-in-machine-learning.png
+
+
+![Image](https://cdn-images-1.medium.com/max/1600/1*60gs-SFYyooZZBxatuoNJw.jpeg)
