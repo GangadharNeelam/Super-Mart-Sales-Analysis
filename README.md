@@ -18,21 +18,28 @@ Business objective is to analyse the given data provided by the client to ide
 ![image](https://user-images.githubusercontent.com/93145713/169708694-e9525287-7c92-489f-80a2-de984bf0a39d.png)
 
 ## Exploratory Data Analysis
-
-![image](https://user-images.githubusercontent.com/93145713/169708870-7eb9ac91-58c7-4b6d-9b01-8fb39960365c.png)
-
-![image](https://user-images.githubusercontent.com/93145713/169708897-c7092099-395f-47b3-8259-58b8868c8cfd.png)
+![image](https://user-images.githubusercontent.com/93145713/169712473-4785b7f8-3494-46c4-8f32-dfd560c8fd07.png)
+![image](https://user-images.githubusercontent.com/93145713/169712488-3ebac754-e22c-40cf-b1c8-b7781e7fb4d6.png)
 
 Campaign Analysis
 ![image](https://user-images.githubusercontent.com/93145713/169709118-7796a4a7-8b61-498b-9bde-5657974474a0.png)
 
-![image](https://user-images.githubusercontent.com/93145713/169709168-81927f6c-3aaf-4f71-a8b0-6ba9b5ae9148.png)
+![image](https://user-images.githubusercontent.com/93145713/169712510-345d9a06-9f9b-4861-adf1-7d8545012b9e.png)
+
+![image](https://user-images.githubusercontent.com/93145713/169712532-ced2b452-00dc-458c-a195-56597224aeb0.png)
+
+![image](https://user-images.githubusercontent.com/93145713/169712555-2224d045-7e82-454b-af29-701da5227c1d.png)
+
+![image](https://user-images.githubusercontent.com/93145713/169712577-a95cf520-93fd-48f2-a118-79d315ed2c32.png)
+
+![image](https://user-images.githubusercontent.com/93145713/169712586-770b5a4a-44c2-4547-abde-b07121165935.png)
 
 Country	Average complaints
 
 ![image](https://user-images.githubusercontent.com/93145713/169709289-56189132-d8e1-4de4-8943-bf6ca3e467e4.png)
 
-![image](https://user-images.githubusercontent.com/93145713/169709339-b2a65c59-b313-4f54-b2a3-ad8fab835648.png)
+![image](https://user-images.githubusercontent.com/93145713/169712598-d1aac788-7e57-43ac-84ee-c792db61fc8e.png)
+
 
 ## Recommendations
 * Increase discount rate on fruits, sweet, fish and gold products.
