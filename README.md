@@ -1,4 +1,4 @@
-# Analysis on sales of a super mart store
+# Analysis on sales of a super mart store 
 
 ## Business Objective
 Business objective is to analyse the given data provided by the client to identify key performance indicators which influence the overall sales of the super mart store to boost up its future sales/profits.
