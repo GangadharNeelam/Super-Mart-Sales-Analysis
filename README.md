@@ -8,11 +8,11 @@ Business objective is to analyse the given data provided by the client to ide
 * We have to perform analysis on past sales data of the super mart store to recommend an appropriate strategy to boost up its future sales / profits.
 
 ## Approach
-* Data collection
-* Data wrangling
-* Exploratory data analysis
-* Interpreting results
-* Recommendations to the super mart store
+    * Data collection
+    * Data wrangling
+    * Exploratory data analysis
+    * Interpreting results
+    * Recommendations to the super mart store
 
 ## Extended Data Dictionary
 ![image](https://user-images.githubusercontent.com/93145713/169708694-e9525287-7c92-489f-80a2-de984bf0a39d.png)
@@ -42,9 +42,9 @@ Country	Average complaints
 
 
 ## Recommendations
-* Increase discount rate on fruits, sweet, fish and gold products.
-* Conduct more campaigns in every country. Because response for campaigning is increased with every campaign.
-* Special discounts to the customers with medium to high range salary. It will increase number of sales.
-* Solve complaints regarding products.
-* Improve Catalogue products management 
+    * Increase discount rate on fruits, sweet, fish and gold products.
+    * Conduct more campaigns in every country. Because response for campaigning is increased with every campaign.
+    * Special discounts to the customers with medium to high range salary. It will increase number of sales.
+    * Solve complaints regarding products.
+    * Improve Catalogue products management 
 
